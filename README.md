@@ -1,7 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/Serhx4/burger-hub">
-    <img src="https://github.com/Serhx4/burger-hub/blob/master/src/main/resources/static/image/logo/burger.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/ogang228/faceburger3.13">
   </a>
   
   <h1 align="center">Burger Hub</h1>
@@ -9,7 +8,7 @@
   <p align="center">
     E-commerce burger delivery platform
     <br />
-    <a href="https://github.com/Serhx4/burger-hub"><strong>Explore repository »</strong></a>
+    <a href="https://github.com/ogang228/faceburger3.13"><strong>Explore repository »</strong></a>
   </p>
 </div>
 
@@ -75,7 +74,7 @@ Easy start:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Serhx4/burger-hub.git
+   git clone https://github.com/ogang228/faceburger3.13.git
    ```
 2. Change active profile to `dev` in `application.properties` to run with pre-loaded in-memory H2 database
    ```js
