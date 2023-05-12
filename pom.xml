@@ -8,7 +8,7 @@
 		<version>2.7.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.github.serhx4</groupId>
+	<groupId>com.github.ogang228</groupId>
 	<artifactId>burger-hub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>burger-hub</name>
